@@ -1,0 +1,45 @@
+2023-09-15 14:34:26,766.Emitter_producer_1.INFO ==================================================
+2023-09-15 14:34:26,767.Emitter_producer_1.INFO Today is 2023-09-15 at 02:34 PM
+2023-09-15 14:34:26,768.Emitter_producer_1.INFO Running on: nt Windows 10
+2023-09-15 14:34:26,769.Emitter_producer_1.INFO Python version:  3.10.8
+2023-09-15 14:34:26,769.Emitter_producer_1.INFO Python path: C:\Users\KONGA\miniconda3
+2023-09-15 14:34:26,770.Emitter_producer_1.INFO Working dir: C:\Users\KONGA\Documents\streaming-04-bonus-gorentla
+2023-09-15 14:34:26,771.Emitter_producer_1.INFO ==================================================
+2023-09-15 14:34:26,813.Emitter_producer_1.INFO  [x] Sent 13300000
+2023-09-15 14:34:26,814.Emitter_producer_1.INFO  [x] Sent 7420
+2023-09-15 14:34:29,822.Emitter_producer_1.INFO  [x] Sent 12250000
+2023-09-15 14:34:29,824.Emitter_producer_1.INFO  [x] Sent 8960
+2023-09-15 14:34:32,840.Emitter_producer_1.INFO  [x] Sent 12250000
+2023-09-15 14:34:32,841.Emitter_producer_1.INFO  [x] Sent 9960
+2023-09-15 14:34:35,852.Emitter_producer_1.INFO  [x] Sent 12215000
+2023-09-15 14:34:35,853.Emitter_producer_1.INFO  [x] Sent 7500
+2023-09-15 14:34:38,860.Emitter_producer_1.INFO  [x] Sent 11410000
+2023-09-15 14:34:38,862.Emitter_producer_1.INFO  [x] Sent 7420
+2023-09-15 14:34:41,872.Emitter_producer_1.INFO  [x] Sent 10850000
+2023-09-15 14:34:41,874.Emitter_producer_1.INFO  [x] Sent 7500
+2023-09-15 14:34:44,881.Emitter_producer_1.INFO  [x] Sent 10150000
+2023-09-15 14:34:44,883.Emitter_producer_1.INFO  [x] Sent 8580
+2023-09-15 14:34:47,885.Emitter_producer_1.INFO  [x] Sent 10150000
+2023-09-15 14:34:47,887.Emitter_producer_1.INFO  [x] Sent 16200
+2023-09-15 14:34:50,893.Emitter_producer_1.INFO  [x] Sent 9870000
+2023-09-15 14:34:50,895.Emitter_producer_1.INFO  [x] Sent 8100
+2023-09-15 14:34:53,901.Emitter_producer_1.INFO  [x] Sent 9800000
+2023-09-15 14:34:53,903.Emitter_producer_1.INFO  [x] Sent 5750
+2023-09-15 14:34:56,915.Emitter_producer_1.INFO  [x] Sent 9800000
+2023-09-15 14:34:56,917.Emitter_producer_1.INFO  [x] Sent 13200
+2023-09-15 14:34:59,921.Emitter_producer_1.INFO  [x] Sent 9681000
+2023-09-15 14:34:59,923.Emitter_producer_1.INFO  [x] Sent 6000
+2023-09-15 14:35:02,939.Emitter_producer_1.INFO  [x] Sent 9310000
+2023-09-15 14:35:02,941.Emitter_producer_1.INFO  [x] Sent 6550
+2023-09-15 14:35:05,944.Emitter_producer_1.INFO  [x] Sent 9240000
+2023-09-15 14:35:05,946.Emitter_producer_1.INFO  [x] Sent 3500
+2023-09-15 14:35:08,950.Emitter_producer_1.INFO  [x] Sent 9240000
+2023-09-15 14:35:08,952.Emitter_producer_1.INFO  [x] Sent 7800
+2023-09-15 14:35:11,961.Emitter_producer_1.INFO  [x] Sent 9100000
+2023-09-15 14:35:11,962.Emitter_producer_1.INFO  [x] Sent 6000
+2023-09-15 14:35:14,965.Emitter_producer_1.INFO  [x] Sent 9100000
+2023-09-15 14:35:14,966.Emitter_producer_1.INFO  [x] Sent 6600
+2023-09-15 14:35:17,977.Emitter_producer_1.INFO  [x] Sent 8960000
+2023-09-15 14:35:17,979.Emitter_producer_1.INFO  [x] Sent 8500
+2023-09-15 14:35:20,984.Emitter_producer_1.INFO  [x] Sent 8890000
+2023-09-15 14:35:20,985.Emitter_producer_1.INFO  [x] Sent 4600

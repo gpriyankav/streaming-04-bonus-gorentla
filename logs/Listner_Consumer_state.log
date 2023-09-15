@@ -1,0 +1,51 @@
+2023-09-15 14:31:35,778.Listner_Consumer_state.INFO ==================================================
+2023-09-15 14:31:35,779.Listner_Consumer_state.INFO Today is 2023-09-15 at 02:31 PM
+2023-09-15 14:31:35,779.Listner_Consumer_state.INFO Running on: nt Windows 10
+2023-09-15 14:31:35,779.Listner_Consumer_state.INFO Python version:  3.10.8
+2023-09-15 14:31:35,780.Listner_Consumer_state.INFO Python path: C:\Users\KONGA\miniconda3
+2023-09-15 14:31:35,780.Listner_Consumer_state.INFO Working dir: C:\Users\KONGA\Documents\streaming-04-bonus-gorentla
+2023-09-15 14:31:35,781.Listner_Consumer_state.INFO ==================================================
+2023-09-15 14:31:35,817.Listner_Consumer_state.INFO  [*] Ready for work. To exit press CTRL+C
+2023-09-15 14:31:35,818.Listner_Consumer_state.INFO  [x] Received PUNJAB
+2023-09-15 14:31:35,818.Listner_Consumer_state.INFO  [x] Done.
+2023-09-15 14:31:35,821.Listner_Consumer_state.INFO  [x] Received MAHARASHTRA
+2023-09-15 14:31:35,821.Listner_Consumer_state.INFO  [x] Done.
+2023-09-15 14:31:35,823.Listner_Consumer_state.INFO  [x] Received ANDHRA PRADESH
+2023-09-15 14:31:35,823.Listner_Consumer_state.INFO  [x] Done.
+2023-09-15 14:31:35,825.Listner_Consumer_state.INFO  [x] Received JHARKHAND
+2023-09-15 14:31:35,826.Listner_Consumer_state.INFO  [x] Done.
+2023-09-15 14:31:35,828.Listner_Consumer_state.INFO  [x] Received ANDHRA PRADESH
+2023-09-15 14:31:35,829.Listner_Consumer_state.INFO  [x] Done.
+2023-09-15 14:31:35,831.Listner_Consumer_state.INFO  [x] Received TRIPURA
+2023-09-15 14:31:35,831.Listner_Consumer_state.INFO  [x] Done.
+2023-09-15 14:31:35,833.Listner_Consumer_state.INFO  [x] Received UTTAR PRADESH
+2023-09-15 14:31:35,834.Listner_Consumer_state.INFO  [x] Done.
+2023-09-15 14:31:35,835.Listner_Consumer_state.INFO  [x] Received GUJARAT
+2023-09-15 14:31:35,836.Listner_Consumer_state.INFO  [x] Done.
+2023-09-15 14:31:35,837.Listner_Consumer_state.INFO  [x] Received MAHARASHTRA
+2023-09-15 14:31:35,838.Listner_Consumer_state.INFO  [x] Done.
+2023-09-15 14:31:35,838.Listner_Consumer_state.INFO  [x] Received MIZORAM
+2023-09-15 14:31:35,839.Listner_Consumer_state.INFO  [x] Done.
+2023-09-15 14:31:35,844.Listner_Consumer_state.INFO  [x] Received RAJASTHAN
+2023-09-15 14:31:35,845.Listner_Consumer_state.INFO  [x] Done.
+2023-09-15 14:31:35,847.Listner_Consumer_state.INFO  [x] Received UTTAR PRADESH
+2023-09-15 14:31:35,848.Listner_Consumer_state.INFO  [x] Done.
+2023-09-15 14:31:35,849.Listner_Consumer_state.INFO  [x] Received MAHARASHTRA
+2023-09-15 14:31:35,850.Listner_Consumer_state.INFO  [x] Done.
+2023-09-15 14:31:35,852.Listner_Consumer_state.INFO  [x] Received TAMIL NADU
+2023-09-15 14:31:35,852.Listner_Consumer_state.INFO  [x] Done.
+2023-09-15 14:31:35,853.Listner_Consumer_state.INFO  [x] Received KERALA
+2023-09-15 14:31:35,854.Listner_Consumer_state.INFO  [x] Done.
+2023-09-15 14:31:35,855.Listner_Consumer_state.INFO  [x] Received UTTAR PRADESH
+2023-09-15 14:31:35,856.Listner_Consumer_state.INFO  [x] Done.
+2023-09-15 14:31:35,858.Listner_Consumer_state.INFO  [x] Received UTTAR PRADESH
+2023-09-15 14:31:35,859.Listner_Consumer_state.INFO  [x] Done.
+2023-09-15 14:31:35,862.Listner_Consumer_state.INFO  [x] Received RAJASTHAN
+2023-09-15 14:31:35,863.Listner_Consumer_state.INFO  [x] Done.
+2023-09-15 14:31:35,864.Listner_Consumer_state.INFO  [x] Received HARYANA
+2023-09-15 14:31:35,865.Listner_Consumer_state.INFO  [x] Done.
+2023-09-15 14:31:35,866.Listner_Consumer_state.INFO  [x] Received HARYANA
+2023-09-15 14:31:35,867.Listner_Consumer_state.INFO  [x] Done.
+2023-09-15 14:31:55,816.Listner_Consumer_state.INFO 
+Closing connection. Goodbye.
+

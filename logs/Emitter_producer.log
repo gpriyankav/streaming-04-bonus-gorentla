@@ -1,0 +1,73 @@
+2023-09-15 14:32:39,131.Emitter_producer.INFO ==================================================
+2023-09-15 14:32:39,132.Emitter_producer.INFO Today is 2023-09-15 at 02:32 PM
+2023-09-15 14:32:39,132.Emitter_producer.INFO Running on: nt Windows 10
+2023-09-15 14:32:39,133.Emitter_producer.INFO Python version:  3.10.8
+2023-09-15 14:32:39,133.Emitter_producer.INFO Python path: C:\Users\KONGA\miniconda3
+2023-09-15 14:32:39,134.Emitter_producer.INFO Working dir: C:\Users\KONGA\Documents\streaming-04-bonus-gorentla
+2023-09-15 14:32:39,134.Emitter_producer.INFO ==================================================
+2023-09-15 14:32:39,166.Emitter_producer.INFO  [x] Sent Abohar 
+2023-09-15 14:32:39,167.Emitter_producer.INFO  [x] Sent PUNJAB
+2023-09-15 14:32:42,184.Emitter_producer.INFO  [x] Sent Achalpur 
+2023-09-15 14:32:42,186.Emitter_producer.INFO  [x] Sent MAHARASHTRA
+2023-09-15 14:32:45,196.Emitter_producer.INFO  [x] Sent Adilabad 
+2023-09-15 14:32:45,198.Emitter_producer.INFO  [x] Sent ANDHRA PRADESH
+2023-09-15 14:32:48,208.Emitter_producer.INFO  [x] Sent Adityapur 
+2023-09-15 14:32:48,210.Emitter_producer.INFO  [x] Sent JHARKHAND
+2023-09-15 14:32:51,212.Emitter_producer.INFO  [x] Sent Adoni 
+2023-09-15 14:32:51,213.Emitter_producer.INFO  [x] Sent ANDHRA PRADESH
+2023-09-15 14:32:54,217.Emitter_producer.INFO  [x] Sent Agartala 
+2023-09-15 14:32:54,218.Emitter_producer.INFO  [x] Sent TRIPURA
+2023-09-15 14:32:57,231.Emitter_producer.INFO  [x] Sent Agra 
+2023-09-15 14:32:57,233.Emitter_producer.INFO  [x] Sent UTTAR PRADESH
+2023-09-15 14:33:00,248.Emitter_producer.INFO  [x] Sent Ahmadabad 
+2023-09-15 14:33:00,249.Emitter_producer.INFO  [x] Sent GUJARAT
+2023-09-15 14:33:03,253.Emitter_producer.INFO  [x] Sent Ahmadnagar 
+2023-09-15 14:33:03,256.Emitter_producer.INFO  [x] Sent MAHARASHTRA
+2023-09-15 14:33:06,269.Emitter_producer.INFO  [x] Sent Aizawl 
+2023-09-15 14:33:06,270.Emitter_producer.INFO  [x] Sent MIZORAM
+2023-09-15 14:33:09,272.Emitter_producer.INFO  [x] Sent Ajmer 
+2023-09-15 14:33:09,274.Emitter_producer.INFO  [x] Sent RAJASTHAN
+2023-09-15 14:33:12,285.Emitter_producer.INFO  [x] Sent Akbarpur 
+2023-09-15 14:33:12,287.Emitter_producer.INFO  [x] Sent UTTAR PRADESH
+2023-09-15 14:33:15,303.Emitter_producer.INFO  [x] Sent Akola 
+2023-09-15 14:33:15,305.Emitter_producer.INFO  [x] Sent MAHARASHTRA
+2023-09-15 14:33:18,312.Emitter_producer.INFO  [x] Sent Alandur 
+2023-09-15 14:33:18,314.Emitter_producer.INFO  [x] Sent TAMIL NADU
+2023-09-15 14:33:21,315.Emitter_producer.INFO  [x] Sent Alappuzha 
+2023-09-15 14:33:21,318.Emitter_producer.INFO  [x] Sent KERALA
+2023-09-15 14:33:24,324.Emitter_producer.INFO  [x] Sent Aligarh 
+2023-09-15 14:33:24,325.Emitter_producer.INFO  [x] Sent UTTAR PRADESH
+2023-09-15 14:33:27,330.Emitter_producer.INFO  [x] Sent Allahabad 
+2023-09-15 14:33:27,331.Emitter_producer.INFO  [x] Sent UTTAR PRADESH
+2023-09-15 14:33:30,334.Emitter_producer.INFO  [x] Sent Alwar 
+2023-09-15 14:33:30,335.Emitter_producer.INFO  [x] Sent RAJASTHAN
+2023-09-15 14:33:33,340.Emitter_producer.INFO  [x] Sent Ambala 
+2023-09-15 14:33:33,342.Emitter_producer.INFO  [x] Sent HARYANA
+2023-09-15 14:33:36,350.Emitter_producer.INFO  [x] Sent Ambala Sadar 
+2023-09-15 14:33:36,352.Emitter_producer.INFO  [x] Sent HARYANA
+2023-09-15 14:33:39,357.Emitter_producer.INFO  [x] Sent Ambarnath 
+2023-09-15 14:33:39,360.Emitter_producer.INFO  [x] Sent MAHARASHTRA
+2023-09-15 14:33:42,363.Emitter_producer.INFO  [x] Sent Ambattur 
+2023-09-15 14:33:42,365.Emitter_producer.INFO  [x] Sent TAMIL NADU
+2023-09-15 14:33:45,374.Emitter_producer.INFO  [x] Sent Ambikapur 
+2023-09-15 14:33:45,376.Emitter_producer.INFO  [x] Sent CHHATTISGARH
+2023-09-15 14:33:48,391.Emitter_producer.INFO  [x] Sent Ambur 
+2023-09-15 14:33:48,393.Emitter_producer.INFO  [x] Sent TAMIL NADU
+2023-09-15 14:33:51,410.Emitter_producer.INFO  [x] Sent Amravati 
+2023-09-15 14:33:51,412.Emitter_producer.INFO  [x] Sent MAHARASHTRA
+2023-09-15 14:33:54,416.Emitter_producer.INFO  [x] Sent Amreli 
+2023-09-15 14:33:54,418.Emitter_producer.INFO  [x] Sent GUJARAT
+2023-09-15 14:33:57,431.Emitter_producer.INFO  [x] Sent Amritsar 
+2023-09-15 14:33:57,433.Emitter_producer.INFO  [x] Sent PUNJAB
+2023-09-15 14:34:00,450.Emitter_producer.INFO  [x] Sent Amroha 
+2023-09-15 14:34:00,452.Emitter_producer.INFO  [x] Sent UTTAR PRADESH
+2023-09-15 14:34:03,463.Emitter_producer.INFO  [x] Sent Anand 
+2023-09-15 14:34:03,466.Emitter_producer.INFO  [x] Sent GUJARAT
+2023-09-15 14:34:06,476.Emitter_producer.INFO  [x] Sent Anantapur 
+2023-09-15 14:34:06,478.Emitter_producer.INFO  [x] Sent ANDHRA PRADESH
+2023-09-15 14:34:09,484.Emitter_producer.INFO  [x] Sent Anantnag 
+2023-09-15 14:34:09,486.Emitter_producer.INFO  [x] Sent JAMMU & KASHMIR
+2023-09-15 14:34:12,491.Emitter_producer.INFO  [x] Sent Arrah 
+2023-09-15 14:34:12,494.Emitter_producer.INFO  [x] Sent BIHAR
+2023-09-15 14:34:15,499.Emitter_producer.INFO  [x] Sent Asansol 
+2023-09-15 14:34:15,500.Emitter_producer.INFO  [x] Sent WEST BENGAL

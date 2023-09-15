@@ -1,0 +1,51 @@
+2023-09-15 14:29:13,156.Listner_Consumer.INFO ==================================================
+2023-09-15 14:29:13,157.Listner_Consumer.INFO Today is 2023-09-15 at 02:29 PM
+2023-09-15 14:29:13,158.Listner_Consumer.INFO Running on: nt Windows 10
+2023-09-15 14:29:13,159.Listner_Consumer.INFO Python version:  3.10.8
+2023-09-15 14:29:13,159.Listner_Consumer.INFO Python path: C:\Users\KONGA\miniconda3
+2023-09-15 14:29:13,160.Listner_Consumer.INFO Working dir: C:\Users\KONGA\Documents\streaming-04-bonus-gorentla
+2023-09-15 14:29:13,160.Listner_Consumer.INFO ==================================================
+2023-09-15 14:29:13,200.Listner_Consumer.INFO  [*] Ready for work. To exit press CTRL+C
+2023-09-15 14:29:13,201.Listner_Consumer.INFO  [x] Received Abohar 
+2023-09-15 14:29:13,202.Listner_Consumer.INFO  [x] Done.
+2023-09-15 14:29:13,203.Listner_Consumer.INFO  [x] Received Achalpur 
+2023-09-15 14:29:13,204.Listner_Consumer.INFO  [x] Done.
+2023-09-15 14:29:13,207.Listner_Consumer.INFO  [x] Received Adilabad 
+2023-09-15 14:29:13,207.Listner_Consumer.INFO  [x] Done.
+2023-09-15 14:29:13,211.Listner_Consumer.INFO  [x] Received Adityapur 
+2023-09-15 14:29:13,213.Listner_Consumer.INFO  [x] Done.
+2023-09-15 14:29:13,215.Listner_Consumer.INFO  [x] Received Adoni 
+2023-09-15 14:29:13,216.Listner_Consumer.INFO  [x] Done.
+2023-09-15 14:29:13,218.Listner_Consumer.INFO  [x] Received Agartala 
+2023-09-15 14:29:13,219.Listner_Consumer.INFO  [x] Done.
+2023-09-15 14:29:13,220.Listner_Consumer.INFO  [x] Received Agra 
+2023-09-15 14:29:13,221.Listner_Consumer.INFO  [x] Done.
+2023-09-15 14:29:13,223.Listner_Consumer.INFO  [x] Received Ahmadabad 
+2023-09-15 14:29:13,224.Listner_Consumer.INFO  [x] Done.
+2023-09-15 14:29:13,226.Listner_Consumer.INFO  [x] Received Ahmadnagar 
+2023-09-15 14:29:13,227.Listner_Consumer.INFO  [x] Done.
+2023-09-15 14:29:13,230.Listner_Consumer.INFO  [x] Received Aizawl 
+2023-09-15 14:29:13,230.Listner_Consumer.INFO  [x] Done.
+2023-09-15 14:29:13,232.Listner_Consumer.INFO  [x] Received Ajmer 
+2023-09-15 14:29:13,233.Listner_Consumer.INFO  [x] Done.
+2023-09-15 14:29:13,235.Listner_Consumer.INFO  [x] Received Akbarpur 
+2023-09-15 14:29:13,235.Listner_Consumer.INFO  [x] Done.
+2023-09-15 14:29:13,237.Listner_Consumer.INFO  [x] Received Akola 
+2023-09-15 14:29:13,238.Listner_Consumer.INFO  [x] Done.
+2023-09-15 14:29:13,240.Listner_Consumer.INFO  [x] Received Alandur 
+2023-09-15 14:29:13,241.Listner_Consumer.INFO  [x] Done.
+2023-09-15 14:29:13,245.Listner_Consumer.INFO  [x] Received Alappuzha 
+2023-09-15 14:29:13,247.Listner_Consumer.INFO  [x] Done.
+2023-09-15 14:29:13,249.Listner_Consumer.INFO  [x] Received Aligarh 
+2023-09-15 14:29:13,249.Listner_Consumer.INFO  [x] Done.
+2023-09-15 14:29:13,251.Listner_Consumer.INFO  [x] Received Allahabad 
+2023-09-15 14:29:13,252.Listner_Consumer.INFO  [x] Done.
+2023-09-15 14:29:13,254.Listner_Consumer.INFO  [x] Received Alwar 
+2023-09-15 14:29:13,254.Listner_Consumer.INFO  [x] Done.
+2023-09-15 14:29:13,256.Listner_Consumer.INFO  [x] Received Ambala 
+2023-09-15 14:29:13,257.Listner_Consumer.INFO  [x] Done.
+2023-09-15 14:29:13,261.Listner_Consumer.INFO  [x] Received Ambala Sadar 
+2023-09-15 14:29:13,263.Listner_Consumer.INFO  [x] Done.
+2023-09-15 14:30:08,238.Listner_Consumer.INFO 
+Closing connection. Goodbye.
+
